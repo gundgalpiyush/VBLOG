@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>vblog</title>
+	<atom:link href="https://gundgalpiyush.github.io/VBLOG/feed/" rel="self" type="application/rss+xml" />
+	<link>https://gundgalpiyush.github.io/VBLOG</link>
+	<description></description>
+	<lastBuildDate>Mon, 13 May 2024 15:27:04 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.3</generator>
+	<item>
+		<title>Greetings!!</title>
+		<link>https://gundgalpiyush.github.io/VBLOG/2024/05/13/hello-world/</link>
+					<comments>https://gundgalpiyush.github.io/VBLOG/2024/05/13/hello-world/#comments</comments>
+		
+		<dc:creator><![CDATA[Gundgal Piyush]]></dc:creator>
+		<pubDate>Mon, 13 May 2024 14:51:59 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://gundgalpiyush.github.io/VBLOG/?p=1</guid>
+
+					<description><![CDATA[Welcome to this website. This is your first post!]]></description>
+										<content:encoded><![CDATA[
+<p>Welcome to this website. This is your first post!</p>
+
+
+
+<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="667" height="657" src="https://gundgalpiyush.github.io/VBLOG/wp-content/uploads/2024/05/logo-1.png" alt="" class="wp-image-35"/></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://gundgalpiyush.github.io/VBLOG/2024/05/13/hello-world/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
